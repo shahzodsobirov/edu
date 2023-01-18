@@ -1,0 +1,84 @@
+{
+  "School": [
+    {
+      "id": 1,
+      "name": "Shahzod",
+      "surname": "Sobirov",
+      "age": 17,
+      "attendance": "90%",
+      "score": "70%"
+    },
+    {
+      "id": 2,
+      "name": "Nasibullo",
+      "surname": "Ibragimov",
+      "age": 10,
+      "attendance": "90%",
+      "score": "70%"
+    },
+    {
+      "id": 3,
+      "name": "Asad",
+      "surname": "Nimatilloyev",
+      "age": 13,
+      "attendance": "90%",
+      "score": "70%"
+    },
+    {
+      "id": 4,
+      "name": "Abdurahim",
+      "surname": "Rustamov",
+      "age": 14,
+      "attendance": "90%",
+      "score": "70%"
+    },
+    {
+      "id": 5,
+      "name": "Abdurahim",
+      "surname": "Rustamov",
+      "age": 14,
+      "attendance": "90%",
+      "score": "70%"
+    },
+    {
+      "id": 6,
+      "name": "Abdurahim",
+      "surname": "Rustamov",
+      "age": 14,
+      "attendance": "90%",
+      "score": "70%"
+    },
+    {
+      "id": 7,
+      "name": "Abdurahim",
+      "surname": "Rustamov",
+      "age": 14,
+      "attendance": "40%",
+      "score": "30%"
+    },
+    {
+      "id": 8,
+      "name": "Abdurahim",
+      "surname": "Rustamov",
+      "age": 14,
+      "attendance": "70%",
+      "score": "30%"
+    },
+    {
+      "id": 9,
+      "name": "Abdurahim",
+      "surname": "Rustamov",
+      "age": 14,
+      "attendance": "60%",
+      "score": "60%"
+    },
+    {
+      "id": 10,
+      "name": "Abdurahim",
+      "surname": "Rustamov",
+      "age": 12,
+      "attendance": "70%",
+      "score": "80%"
+    }
+  ]
+}
