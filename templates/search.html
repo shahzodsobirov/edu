@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="../static/search.css">
+</head>
+<body>
+<form action="{{ url_for("search") }}" method="post">
+    <div class="search">
+        <input type="search" name="search">
+        <button>search</button>
+    </div>
+</form>
+{{ info.name }}
+{% if info %}
+
+        <h1>{{ inf.name }}</h1>
+    {% endfor %}
+{% endif %}
+
+</body>
+</html>

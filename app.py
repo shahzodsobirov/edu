@@ -3,7 +3,10 @@ from werkzeug.security import generate_password_hash, check_password_hash
 from werkzeug.utils import secure_filename
 from flask_migrate import Migrate
 import json
+from pprint import pprint
+from random import randint as rd, choice as ch
 import os
+
 from backend.database import *
 
 app = Flask(__name__)

@@ -1,0 +1,404 @@
+{
+    "schools": [
+        {
+            "name": "Muhammad",
+            "surname": "Bilol",
+            "age": 14,
+            "attendance": 33,
+            "score": 42,
+            "id": 194479
+        },
+        {
+            "name": "Alisher",
+            "surname": "Akram",
+            "age": 18,
+            "attendance": 50,
+            "score": 24,
+            "id": 176226
+        },
+        {
+            "name": "Sardor",
+            "surname": "Bilol",
+            "age": 7,
+            "attendance": 39,
+            "score": 40,
+            "id": 150774
+        },
+        {
+            "name": "Muhammad",
+            "surname": "Asad",
+            "age": 7,
+            "attendance": 49,
+            "score": 74,
+            "id": 134214
+        },
+        {
+            "name": "Shahzod",
+            "surname": "Ulugbek",
+            "age": 15,
+            "attendance": 21,
+            "score": 23,
+            "id": 130189
+        },
+        {
+            "name": "Sardor",
+            "surname": "Sardor",
+            "age": 7,
+            "attendance": 39,
+            "score": 88,
+            "id": 134642
+        },
+        {
+            "name": "Shahzod",
+            "surname": "Akbar",
+            "age": 8,
+            "attendance": 68,
+            "score": 44,
+            "id": 157778
+        },
+        {
+            "name": "Akram",
+            "surname": "Begzod",
+            "age": 13,
+            "attendance": 87,
+            "score": 53,
+            "id": 117310
+        },
+        {
+            "name": "Shahzod",
+            "surname": "Aziz",
+            "age": 11,
+            "attendance": 32,
+            "score": 55,
+            "id": 121538
+        },
+        {
+            "name": "Ulugbek",
+            "surname": "Akbar",
+            "age": 11,
+            "attendance": 61,
+            "score": 32,
+            "id": 187970
+        },
+        {
+            "name": "Akram",
+            "surname": "Akram",
+            "age": 17,
+            "attendance": 68,
+            "score": 77,
+            "id": 167312
+        },
+        {
+            "name": "Aziz",
+            "surname": "Akram",
+            "age": 18,
+            "attendance": 67,
+            "score": 46,
+            "id": 142432
+        },
+        {
+            "name": "Aziz",
+            "surname": "Ulugbek",
+            "age": 11,
+            "attendance": 40,
+            "score": 82,
+            "id": 170297
+        },
+        {
+            "name": "Bilol",
+            "surname": "Bilol",
+            "age": 11,
+            "attendance": 77,
+            "score": 59,
+            "id": 107513
+        },
+        {
+            "name": "Sardor",
+            "surname": "Aziz",
+            "age": 12,
+            "attendance": 89,
+            "score": 23,
+            "id": 198272
+        },
+        {
+            "name": "Akram",
+            "surname": "Begzod",
+            "age": 17,
+            "attendance": 81,
+            "score": 87,
+            "id": 192657
+        },
+        {
+            "name": "Aziz",
+            "surname": "Sardor",
+            "age": 17,
+            "attendance": 76,
+            "score": 88,
+            "id": 163811
+        },
+        {
+            "name": "Muhammad",
+            "surname": "Asad",
+            "age": 18,
+            "attendance": 55,
+            "score": 78,
+            "id": 176333
+        },
+        {
+            "name": "Akbar",
+            "surname": "Begzod",
+            "age": 13,
+            "attendance": 57,
+            "score": 56,
+            "id": 165071
+        },
+        {
+            "name": "Aziz",
+            "surname": "Alisher",
+            "age": 10,
+            "attendance": 21,
+            "score": 74,
+            "id": 102636
+        },
+        {
+            "name": "Muhammad",
+            "surname": "Sardor",
+            "age": 16,
+            "attendance": 48,
+            "score": 40,
+            "id": 148916
+        },
+        {
+            "name": "Asad",
+            "surname": "Alisher",
+            "age": 15,
+            "attendance": 63,
+            "score": 48,
+            "id": 135352
+        },
+        {
+            "name": "Akram",
+            "surname": "Begzod",
+            "age": 14,
+            "attendance": 24,
+            "score": 35,
+            "id": 137227
+        },
+        {
+            "name": "Ulugbek",
+            "surname": "Begzod",
+            "age": 16,
+            "attendance": 85,
+            "score": 42,
+            "id": 172151
+        },
+        {
+            "name": "Muhammad",
+            "surname": "Muhammad",
+            "age": 18,
+            "attendance": 38,
+            "score": 21,
+            "id": 161307
+        },
+        {
+            "name": "Aziz",
+            "surname": "Akram",
+            "age": 8,
+            "attendance": 22,
+            "score": 37,
+            "id": 170625
+        },
+        {
+            "name": "Begzod",
+            "surname": "Ulugbek",
+            "age": 14,
+            "attendance": 89,
+            "score": 58,
+            "id": 182739
+        },
+        {
+            "name": "Akram",
+            "surname": "Shahzod",
+            "age": 14,
+            "attendance": 38,
+            "score": 43,
+            "id": 175180
+        },
+        {
+            "name": "Ulugbek",
+            "surname": "Muhammad",
+            "age": 9,
+            "attendance": 77,
+            "score": 77,
+            "id": 182068
+        },
+        {
+            "name": "Alisher",
+            "surname": "Akram",
+            "age": 18,
+            "attendance": 74,
+            "score": 47,
+            "id": 101044
+        },
+        {
+            "name": "Muhammad",
+            "surname": "Aziz",
+            "age": 18,
+            "attendance": 66,
+            "score": 46,
+            "id": 197996
+        },
+        {
+            "name": "Aziz",
+            "surname": "Akbar",
+            "age": 16,
+            "attendance": 23,
+            "score": 69,
+            "id": 128794
+        },
+        {
+            "name": "Akbar",
+            "surname": "Akram",
+            "age": 14,
+            "attendance": 63,
+            "score": 64,
+            "id": 161731
+        },
+        {
+            "name": "Akbar",
+            "surname": "Bilol",
+            "age": 15,
+            "attendance": 23,
+            "score": 63,
+            "id": 145351
+        },
+        {
+            "name": "Begzod",
+            "surname": "Akram",
+            "age": 17,
+            "attendance": 48,
+            "score": 26,
+            "id": 133543
+        },
+        {
+            "name": "Begzod",
+            "surname": "Akram",
+            "age": 18,
+            "attendance": 27,
+            "score": 41,
+            "id": 161486
+        },
+        {
+            "name": "Aziz",
+            "surname": "Muhammad",
+            "age": 7,
+            "attendance": 21,
+            "score": 72,
+            "id": 141996
+        },
+        {
+            "name": "Sardor",
+            "surname": "Akbar",
+            "age": 9,
+            "attendance": 52,
+            "score": 77,
+            "id": 174327
+        },
+        {
+            "name": "Begzod",
+            "surname": "Bilol",
+            "age": 7,
+            "attendance": 49,
+            "score": 77,
+            "id": 167136
+        },
+        {
+            "name": "Shahzod",
+            "surname": "Begzod",
+            "age": 15,
+            "attendance": 67,
+            "score": 81,
+            "id": 106594
+        },
+        {
+            "name": "Sardor",
+            "surname": "Akbar",
+            "age": 10,
+            "attendance": 50,
+            "score": 84,
+            "id": 103353
+        },
+        {
+            "name": "Asad",
+            "surname": "Shahzod",
+            "age": 10,
+            "attendance": 29,
+            "score": 26,
+            "id": 120923
+        },
+        {
+            "name": "Bilol",
+            "surname": "Ulugbek",
+            "age": 12,
+            "attendance": 30,
+            "score": 60,
+            "id": 104810
+        },
+        {
+            "name": "Alisher",
+            "surname": "Alisher",
+            "age": 14,
+            "attendance": 77,
+            "score": 83,
+            "id": 110639
+        },
+        {
+            "name": "Sardor",
+            "surname": "Shahzod",
+            "age": 7,
+            "attendance": 35,
+            "score": 28,
+            "id": 111466
+        },
+        {
+            "name": "Akram",
+            "surname": "Aziz",
+            "age": 8,
+            "attendance": 82,
+            "score": 86,
+            "id": 147715
+        },
+        {
+            "name": "Akbar",
+            "surname": "Akram",
+            "age": 13,
+            "attendance": 36,
+            "score": 80,
+            "id": 195655
+        },
+        {
+            "name": "Sardor",
+            "surname": "Akbar",
+            "age": 11,
+            "attendance": 44,
+            "score": 39,
+            "id": 119204
+        },
+        {
+            "name": "Sardor",
+            "surname": "Aziz",
+            "age": 12,
+            "attendance": 49,
+            "score": 22,
+            "id": 138762
+        },
+        {
+            "name": "Muhammad",
+            "surname": "Shahzod",
+            "age": 8,
+            "attendance": 89,
+            "score": 77,
+            "id": 190501
+        }
+    ]
+}
